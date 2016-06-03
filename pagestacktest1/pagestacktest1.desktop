@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=pagestacktest1
+Exec=qmlscene %U pagestacktest1/Main.qml
+Icon=pagestacktest1/pagestacktest1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

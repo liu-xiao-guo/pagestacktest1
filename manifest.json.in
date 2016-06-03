@@ -1,0 +1,17 @@
+{
+    "name": "pagestacktest1.liu-xiao-guo",
+    "description": "description of pagestacktest1",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pagestacktest1",
+    "hooks": {
+        "pagestacktest1": {
+            "apparmor": "pagestacktest1/pagestacktest1.apparmor",
+            "desktop":  "pagestacktest1/pagestacktest1.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
